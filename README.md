@@ -11,3 +11,6 @@ I'm **Olivier Lefebvre**
 - 📫 How to reach me: [aguacongas@gmail.com](mailto:aguacongas@gmail.com)
 
   ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=aguacongas)
+
+[![Strava](https://badges.strava.com/logo-strava-echelon.png) Me at Strava](https://strava.com/athletes/109019672)
+  
