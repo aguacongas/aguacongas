@@ -13,4 +13,4 @@ I'm **Olivier Lefebvre**
   ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=aguacongas)
 
 [![Strava](https://badges.strava.com/logo-strava-echelon.png) Me at Strava](https://strava.com/athletes/109019672)
-  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) My Insta](https://www.instagram.com/aguafrommars/)
