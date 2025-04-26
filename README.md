@@ -11,7 +11,13 @@ I'm **Olivier Lefebvre**
 - 📫 How to reach me: [aguacongas@gmail.com](mailto:aguacongas@gmail.com)
 
   ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=aguacongas)
+  ![Achiement Card](https://github-profile-trophy.vercel.app/?username=aguacongas&no-frame=true&column=5)
+  
+  [![Strava](https://badges.strava.com/logo-strava-echelon.png) Me at Strava](https://strava.com/athletes/109019672)
 
-[![Strava](https://badges.strava.com/logo-strava-echelon.png) Me at Strava](https://strava.com/athletes/109019672)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aguafrommars/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aguafrommars/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
